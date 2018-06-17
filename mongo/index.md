@@ -1,8 +1,8 @@
 ---
 layout: post-index-category
-title: About MongoDB
+title: Free Board
 category : mongo
-excerpt: "JSON기반 NoSQL"
+excerpt: "자유게시판입니다."
 image:
   feature: sample-image-4.jpg
   credit: WeGraphics
