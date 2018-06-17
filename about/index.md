@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Travel alone
-tags: [about, Jekyll, theme, responsive]
-modified: 2016-02-23
+tags: [about, travel]
+modified: 2018-06-15
 comments: true
 image:
   feature: sample-image-2.jpg
