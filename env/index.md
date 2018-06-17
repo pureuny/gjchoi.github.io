@@ -1,8 +1,8 @@
 ---
 layout: post-index-category
-title: About Blog Posts
+title: with Aribnb
 category : env
-excerpt: "A List of Posts about Blog"
+excerpt: "에어비앤비와 제휴를 통한 혜택을 받아보세요!"
 image:
   feature: sample-image-3.jpg
   credit: WeGraphics
