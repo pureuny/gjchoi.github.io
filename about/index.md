@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About IT 노트
+title: About Travel alone
 tags: [about, Jekyll, theme, responsive]
 modified: 2016-02-23
 comments: true
@@ -12,13 +12,13 @@ image:
 
 
 ## About
-> IT 기술에 대해서 연구해보고 정리해보는 개인 블로그입니다.
-프로그래밍 언어, ServerSide/FrontEnd 기술, Opensource 등의 다양한 경험을 바탕으로 구체적인 기술에 대해 정리하고 공유하는데 목적을 두고자 합니다.
+Travel alone에 오신것을 환영합니다!
 
+저희는 모든 여행자들을 환영하지만 나홀로 여행자들에 특화된 커뮤니티 입니다.
+Airbnb와의 제휴로 보다 더 안전하고, 더 경제적인 여행을 떠나 보세요!
 
-## 블로그 구성
-> github page로 서비스하는 jekyll을 사용하여 본 블로그는 제작되었으며,
-아래의 jekyll `Minimal Mistakes` 테마를 사용하여 구성하였습니다.
+## 커뮤니티 구성
+> About, Review, free borad, for Woman, with 게시판으로 구성되어 있습니다.
 
 ## Jekyll Theme 관련
 
