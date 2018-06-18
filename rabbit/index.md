@@ -1,8 +1,8 @@
 ---
 layout: post-index-category
-title: About Rabbit MQ
+title: Emergency Manual
 category : rabbit
-excerpt: "분산환경의 MessageQueue"
+excerpt: "나홀로 여행객들을 위한 위급상황 매뉴얼 입니다. "
 image:
   feature: sample-image-4.jpg
   credit: WeGraphics
