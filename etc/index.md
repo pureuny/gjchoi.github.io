@@ -1,6 +1,6 @@
 ---
 layout: post-index-category
-title: 여성 유저들을 위한 게시판입니다. 
+title: for Woman
 category : etc
 excerpt: "분탕 및 어그로 유저들은 회원 정지 될 수 있습니다."
 image:
